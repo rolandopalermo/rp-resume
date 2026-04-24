@@ -1,0 +1,49 @@
+# === Compiled output ===
+*.pdf
+*.dvi
+*.ps
+
+# === LaTeX auxiliary files ===
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+
+# === Bibliography ===
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# === Glossaries / index ===
+*.glo
+*.gls
+*.glg
+*.ist
+*.acn
+*.acr
+*.alg
+
+# === TikZ / PGF ===
+*.nav
+*.snm
+
+# === Latexmk ===
+latexmkrc
+
+# === Editor files ===
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
